@@ -1,4 +1,4 @@
-token=NDk3OTMyNjUzNTg0OTczODM0.DpmXnA.gc3E1_7G2QZNCecdpERBJYctpJs
+token=NTA0NTYxNTYyNjQ4OTY5MjE2.DrG1Iw.eiYh-p5qxix8ga6DNKYmDkg2rhc
 owner=469546024839413764
 prefix=3
 game=Type 3play
